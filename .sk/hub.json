@@ -1,0 +1,24 @@
+{
+  "titulo": "juridico-python",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "www/auditoria.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "www/icons/icon-192.png"
+    },
+    {
+      "path": "www/index.html",
+      "nome": "Assistente IA Jurídico",
+      "desc": "",
+      "on": true,
+      "icone": "www/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
